@@ -1,7 +1,7 @@
 from instagrapi import Client
 
-IG_USERNAME = "YOUR IG USERNAM"
-IG_PASSWORD = "YOUR IG INSTAGRAM"
+IG_USERNAME = "YOUR IG USERNAME"
+IG_PASSWORD = "YOUR IG PASSWORD"
 
 unfollowed = []
 # Set up your InstaPy instance with your username and password
